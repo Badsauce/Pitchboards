@@ -2,9 +2,9 @@ ADOBE INDESIGN PRINTING INSTRUCTIONS FOR SERVICE PROVIDER REPORT
 
 PUBLICATION NAME: Pitchboard.indd
 
-PACKAGE DATE: 9/26/2014 5:46 PM
-Creation Date: 9/25/2014
-Modification Date: 9/25/2014
+PACKAGE DATE: 1/17/2015 8:40 AM
+Creation Date: 1/17/2015
+Modification Date: 1/17/2015
 
 CONTACT INFORMATION
 
@@ -31,15 +31,19 @@ External Plug-ins 0
 Non Opaque Objects :None
 
 FONTS
-1 Fonts Used; 0 Missing, 0 Embedded, 0 Incomplete, 0 Protected
+2 Fonts Used; 0 Missing, 0 Embedded, 0 Incomplete, 0 Protected
 
 Fonts Packaged
-- Name: Raleway-Thin; Type: OpenType Type 1, Status: OK
+- Name: ComicNeue; Type: OpenType Type 1, Status: OK
+- Name: ComicNeue-Bold; Type: OpenType Type 1, Status: OK
 
 
 COLORS AND INKS
-1 Process Inks; 4 Spot Inks
+4 Process Inks; 4 Spot Inks, 1 Duplicate Spot Colors
 
+- Name and Type: Process Cyan; Angle: 0.000; Lines/Inch: 0.000
+- Name and Type: Process Magenta; Angle: 0.000; Lines/Inch: 0.000
+- Name and Type: Process Yellow; Angle: 0.000; Lines/Inch: 0.000
 - Name and Type: Process Black; Angle: 0.000; Lines/Inch: 0.000
 - Name and Type: Background; Angle: 0.000; Lines/Inch: 0.000
 - Name and Type: Background Secondary; Angle: 0.000; Lines/Inch: 0.000
@@ -49,8 +53,9 @@ COLORS AND INKS
 
 LINKS AND IMAGES
 (Missing & Embedded Links Only)
-Links and Images: 0 Links Found; 0 Modified, 0 Missing 0 Inaccessible
+Links and Images: 1 Links Found; 0 Modified, 0 Missing 0 Inaccessible
 Images: 0 Embedded, 0 use RGB color space
+
 
 PRINT SETTINGS
 PPD: N/A, (Epson Stylus NX430(Network))
@@ -79,5 +84,8 @@ Flip Mode: Off
 
 FILE PACKAGE LIST
 
-1. Pitchboard.indd; type: Adobe InDesign publication; size: 1104K
-2. Raleway Thin.otf; type: Font file; size: 23K
+1. Pitchboard.indd; type: Adobe InDesign publication; size: 1212K
+2. Pitchboard.idml; type: InDesign Markup Document; size: 52K
+3. Pitchboard.pdf; type: Adobe Acrobat Document; size: 48K
+4. ComicNeue-Regular.otf; type: Font file; size: 28K
+5. ComicNeue_Bold.otf; type: Font file; size: 29K
