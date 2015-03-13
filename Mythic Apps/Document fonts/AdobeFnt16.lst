@@ -1,0 +1,26 @@
+%!Adobe-FontList 1.16
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Raleway-Thin
+FamilyName:Raleway
+StyleName:Thin
+FullName:Raleway Thin
+MenuName:Raleway
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Git Sources\Pitchboards\Mythic Apps\Document fonts\Raleway Thin.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:23944
+FileModTime:1418190334
+WeightClass:250
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Raleway Thin
+NameArray:0,Win,1,Raleway
+%EndFont
+

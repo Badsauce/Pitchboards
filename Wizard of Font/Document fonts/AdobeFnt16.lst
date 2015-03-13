@@ -1,0 +1,24 @@
+%!Adobe-FontList 1.16
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Lato-Regular
+FamilyName:Lato
+StyleName:Regular
+FullName:Lato Regular
+MenuName:Lato
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Git Sources\Pitchboards\Wizard of Font\Document fonts\Lato-Regular.ttf
+DataFormat:sfntData
+FileLength:632632
+FileModTime:1418186734
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Lato Regular
+NameArray:0,Win,1,Lato
+%EndFont
+
