@@ -1,0 +1,51 @@
+%!Adobe-FontList 1.16
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ComicNeue
+FamilyName:Comic Neue
+StyleName:Regular
+FullName:Comic Neue
+MenuName:Comic Neue
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Git\Pitchboards\Helping Hand Final\Document fonts\ComicNeue-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:29512
+FileModTime:1421473352
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Comic Neue
+NameArray:0,Win,1,Comic Neue
+NameArray:0,Win,16,Comic Neue
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ComicNeue-Bold
+FamilyName:Comic Neue
+StyleName:Bold
+FullName:Comic Neue Bold
+MenuName:Comic Neue
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Git\Pitchboards\Helping Hand Final\Document fonts\ComicNeue_Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:30344
+FileModTime:1421473352
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Comic Neue Bold
+NameArray:0,Win,1,Comic Neue
+NameArray:0,Win,16,Comic Neue
+%EndFont
+
